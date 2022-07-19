@@ -26,7 +26,6 @@ INIT_LR = 1e-4
 EPOCHS = 5
 BS = 32
 
-# DIRECTORY = r"C:\Mask Detection\CODE\Face-Mask-Detection-master\dataset"
 DIRECTORY = r"D:\dataset"
 CATEGORIES = ["with_mask", "without_mask"]
 
